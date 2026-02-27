@@ -15,7 +15,7 @@ Tech Stack
 *Render (cloud deployment)
 
 Live API
-https://machine-learning-deployment-mdk2.onrender.com
+https://machinexxxxxxxxxxxxxxxxonrender.com
 
 
 
